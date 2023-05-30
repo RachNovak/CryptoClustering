@@ -1,2 +1,12 @@
 # CryptoClustering
 Challenge19
+
+The work is divided into the following subsections:
+
+Prepare the Data
+Find the Best Value for k Using the Original Scaled DataFrame
+Cluster Cryptocurrencies with K-means Using the Original Scaled Data
+Optimise Clusters with Principal Component Analysis
+Find the Best Value for k Using the PCA Data
+Cluster Cryptocurrencies with K-means Using the PCA Data
+Visualise and Compare the Results
